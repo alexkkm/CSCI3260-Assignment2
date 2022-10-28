@@ -27,8 +27,8 @@ Build solution.
 F5 for run
 </pre>
 
-![plot](https://github.com/adriankwan108/CSCI3260/blob/main/HW2/asg2_demo1.jpg)
-![plot](https://github.com/adriankwan108/CSCI3260/blob/main/HW2/asg2_demo2.jpg)
+![plot](https://github.com/alexkkm/CSCI3260-Assignment2/blob/master/asg2_demo1.jpg)
+![plot](https://github.com/alexkkm/CSCI3260-Assignment2/blob/master/asg2_demo2.jpg)
 
 **Manipulation**
 <pre>
