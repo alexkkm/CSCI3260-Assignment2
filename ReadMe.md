@@ -23,6 +23,7 @@ Make sure the platform is x64.
 Setup OpenGL environment and dependencies, 
 i.e. properties->linker->general->additional library directories, add "freeglut"...
      properties->linker->input->additional dependencies, add "opengl32.lib"...
+Add glew32.dll into the same location with .exe 
 Build solution.
 F5 for run
 </pre>
